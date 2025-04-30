@@ -56,5 +56,4 @@ Numerical methods implementation in MATLAB.
 - Gauss-Seidel method
 
 ## Authors
-
 - Utkarsh Shankar
